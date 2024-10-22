@@ -1,4 +1,4 @@
-# Concept Selection Model
+# Concept Selection Models
 This is the code repository of "Understanding Multimodal Deep Neural Networks: A Concept Selection View". The paper is accepted by [CogSci 2024](https://escholarship.org/uc/item/1h67z0ww).
 ![image](https://github.com/user-attachments/assets/b5ce4b98-19be-4053-b299-2560a84388ec)
 
